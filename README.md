@@ -49,3 +49,6 @@ We are always here to help you out and get started . </br>
 Find a issue, then solve the issue and make a pull request to the repo. If you didn't find any helpful issues for you then raise a issue and start solving the issue.
 
 ![pig_dice_game_ss](https://user-images.githubusercontent.com/61481150/95025713-a0c6f880-0640-11eb-8e3a-501144f51fc8.png)
+
+![REsponsive_site](https://github.com/aritrochakraborty29/www.predulive.org/blob/master/img/Pig-Game.gif)
+
